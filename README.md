@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Pinto</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
+<h3 align="center">A passionate software engineer from Portugal</h3>
 
 - 🔭 I’m currently working on [c-cpp-compile-run](https://github.com/danielpinto8zz6/c-cpp-compile-run)
 
