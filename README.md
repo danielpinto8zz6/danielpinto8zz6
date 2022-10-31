@@ -17,5 +17,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danielpinto8zz6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee danielpinto8zz6" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpinto8zz6&show_icons=true&locale=en&layout=compact" alt="danielpinto8zz6" /></p>
