@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [danielpinto.space](https://danielpinto.space)
 
-- 📫 How to reach me **danielpinto@duck.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielpinto8zz6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielpinto8zz6" height="30" width="40" /></a>
