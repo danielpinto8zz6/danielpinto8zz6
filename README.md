@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [c-cpp-compile-run](https://github.com/danielpinto8zz6/c-cpp-compile-run)
 
-- 👨‍💻 All of my projects are available at [danielpinto.space](https://danielpinto.space)
+- 👨‍💻 All of my projects are available at [danielpinto8zz6.github.io](https://danielpinto8zz6.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
